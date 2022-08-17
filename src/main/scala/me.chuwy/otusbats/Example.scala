@@ -9,5 +9,4 @@ object Example {
     show"A is $a, B is $b"
 
   def example[A, B](implicit eva: Show[A], evb: Show[B]) = ???
-
 }
