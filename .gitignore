@@ -1,0 +1,8 @@
+.bsp/
+.idea/
+CHANGELOG
+LICENSE
+README.md
+build.sbt
+project/
+target/
